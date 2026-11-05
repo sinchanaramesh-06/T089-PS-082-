@@ -1,0 +1,15 @@
+key,value,notes
+floor_price,1000.00,Rs per certificate
+forbearance_price,3000.00,
+exchange_fee_pct,0.5,both sides
+registry_fee_per_cert,2.00,seller only
+gst_pct,18,on fees
+rec_expiry_months,36,after end of issuance month
+issuance_window_months,6,after the generation month
+buffer_pct,5,carbon credits withheld per issuance
+buffer_release_after_issuances,3,consecutive without reversal
+solar_rpo_pct,10,
+non_solar_rpo_pct,15,
+carry_forward_min_pct,90,
+compliance_year_end,2026-03-31,
+as_of_date,2026-04-15,
