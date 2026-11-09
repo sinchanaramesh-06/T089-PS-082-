@@ -1,0 +1,18 @@
+Validation run for evaluation-readiness revision
+===============================================
+Command: PYTHONPATH=src python -m pytest -q
+Result: 26 passed
+
+Command: PYTHONPATH=src python -m carbon_exchange.cli --data data --output output
+Result: completed successfully
+
+Generated outputs:
+- issuance_results.csv
+- session_results.csv
+- session_summary.csv
+- registry_balances.csv
+- compliance_report.csv
+- member_accounts.csv
+
+Includes regression test for carbon reversal resetting consecutive issuance streak and output-header contract checks.
+Passing these local tests does not guarantee hidden evaluation success; see EVALUATION_READINESS.md and BR_TRACEABILITY.md.

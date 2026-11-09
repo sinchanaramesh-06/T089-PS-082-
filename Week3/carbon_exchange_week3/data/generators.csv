@@ -1,0 +1,9 @@
+generator_id,generator_name,technology,capacity_mw,accreditation_date,audit_flag,opening_funds,state
+GEN-01,Vayu Solar Power Pvt Ltd,SOLAR,50,2023-09-01,false,1000000.00,KA
+GEN-02,Shakti Solar Power Pvt Ltd,SOLAR,100,2023-09-01,false,1000000.00,GJ
+GEN-03,Pavan Solar Power Pvt Ltd,SOLAR,25,2019-10-01,false,200000.00,KA
+GEN-04,Urja Wind Power Pvt Ltd,WIND,10,2022-01-01,false,1000000.00,GJ
+GEN-05,Jyoti Wind Power Pvt Ltd,WIND,25,2022-05-01,false,500000.00,RJ
+GEN-06,Tejas Biomass Power Pvt Ltd,BIOMASS,10,2021-02-01,false,1000000.00,MH
+GEN-07,Urja Solar Power Pvt Ltd,SOLAR,50,2022-03-01,false,1000000.00,MH
+GEN-08,Urja Wind Power Pvt Ltd,WIND,10,2025-06-01,false,500000.00,GJ
